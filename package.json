@@ -1,7 +1,7 @@
 {
-  "name": "cypress-ct-template",
+  "name": "@lmiller1990/cypress-ct-solid-js",
   "version": "0.0.0",
-  "description": "Example Framework Definition adapter for Cypress Component Testing",
+  "description": "Framework Definition for Solid.js with Cypress Component Testing",
   "exports": {
     "node": "./definition.js",
     "default": "./index.js"
