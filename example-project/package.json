@@ -10,6 +10,8 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@cypress/mount-utils": "^4.0.0",
+    "cypress": "https://cdn.cypress.io/beta/npm/12.6.0/darwin-arm64/feature/ct-public-api-a6a71e1798cedc85992704ca9a5dd6c1322b414b/cypress.tgz",
     "vite": "^4.1.1",
     "vite-plugin-solid": "^2.5.0"
   },
